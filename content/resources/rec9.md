@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-204-planning-communications-and-digital-media-fall-2004/ca8b3afb7d4c86c41273e3358275a8f7_rec9.pdf
+file: /media/courses/11-204-planning-communications-and-digital-media-fall-2004/ca8b3afb7d4c86c41273e3358275a8f7_rec9.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+ocw_type: OCWFile
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Document
 title: rec9.pdf
 uid: ca8b3afb-7d4c-86c4-1273-e3358275a8f7

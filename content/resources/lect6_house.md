@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-204-planning-communications-and-digital-media-fall-2004/c766e4ae8599dd1384d128ef702a6ced_lect6_house.pdf
+file: /media/courses/11-204-planning-communications-and-digital-media-fall-2004/c766e4ae8599dd1384d128ef702a6ced_lect6_house.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lect6_house.pdf
 uid: c766e4ae-8599-dd13-84d1-28ef702a6ced
