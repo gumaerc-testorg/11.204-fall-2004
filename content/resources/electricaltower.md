@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/11-204-planning-communications-and-digital-media-fall-2004/c28ad27ec92994c5007efbcedea61393_electricaltower.jpg
+file: /courses/11-204-planning-communications-and-digital-media-fall-2004/c28ad27ec92994c5007efbcedea61393_electricaltower.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
