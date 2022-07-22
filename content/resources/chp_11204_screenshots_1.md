@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: chp_11204_screenshots_1.jpg
 uid: ef281ce6-1c5f-f8de-690d-eccee435d029
 ---
 Manipulation of screenshots from Excel and Arcview. (Courtesy of Prof. Lorlene Hoyt.)
-

@@ -5,6 +5,7 @@ file: /courses/11-204-planning-communications-and-digital-media-fall-2004/7112db
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec3.pdf
 uid: 7112dbe8-2d32-1773-6c0d-db3b35b63ead
 ---
 This file contains the information on photographic essay.
-

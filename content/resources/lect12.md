@@ -6,6 +6,7 @@ file: /courses/11-204-planning-communications-and-digital-media-fall-2004/7e441c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect12.pdf
 uid: 7e441c95-cf51-740d-a37b-3a2dff57d841
 ---
 Lecture 12, Adventures in Modelling - Exploring Complex Systems with StarLogo
-

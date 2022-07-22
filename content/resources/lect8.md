@@ -6,6 +6,7 @@ file: /courses/11-204-planning-communications-and-digital-media-fall-2004/c88a0e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect8.pdf
 uid: c88a0e13-040c-a82d-195d-e1cbe38830fe
 ---
 Lecture 8: GIS - A Tool for representing community; Lecture 9: GIS - A Tool for mobilizing community
-

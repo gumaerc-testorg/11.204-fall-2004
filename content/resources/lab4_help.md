@@ -6,6 +6,7 @@ file: /courses/11-204-planning-communications-and-digital-media-fall-2004/2572be
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lab4_help.pdf
 uid: 2572be03-f4c1-c574-1b4e-fcbd11bd7469
 ---
 This file contains the help section for using ArcGis to visualize population density.
-

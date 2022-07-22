@@ -6,6 +6,7 @@ file: /courses/11-204-planning-communications-and-digital-media-fall-2004/46c3a7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec5.pdf
 uid: 46c3a715-6ad6-1632-d9e9-5f8f8b57d2f2
 ---
 This file contains the overview, neighborhood information systems for mapping, GIS and planning and NIS.
-

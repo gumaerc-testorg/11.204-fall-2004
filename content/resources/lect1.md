@@ -5,6 +5,7 @@ file: /courses/11-204-planning-communications-and-digital-media-fall-2004/031319
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lect1.pdf
 uid: 03131966-88ff-3184-4229-1694fed8b9e3
 ---
 Lecture 1: The Planner's Toolbox
-

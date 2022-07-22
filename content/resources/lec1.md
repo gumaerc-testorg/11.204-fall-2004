@@ -5,6 +5,7 @@ file: /courses/11-204-planning-communications-and-digital-media-fall-2004/7e8885
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec1.pdf
 uid: 7e8885f4-16fb-a64d-adff-a3d8ddd80b88
 ---
 This file contains the notes on Planner's toolbox.
-

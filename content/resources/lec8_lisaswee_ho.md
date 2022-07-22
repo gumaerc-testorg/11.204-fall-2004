@@ -5,6 +5,7 @@ file: /courses/11-204-planning-communications-and-digital-media-fall-2004/d34dba
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec8_lisaswee_ho.pdf
 uid: d34dba4d-de83-2360-2ad0-5d7a1d25c56e
 ---
 This file contains the information on spatial data acquisitions.
-

@@ -5,6 +5,7 @@ file: /courses/11-204-planning-communications-and-digital-media-fall-2004/062873
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
