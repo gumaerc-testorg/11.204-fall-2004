@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/11-204-planning-communications-and-digital-media-fall-2004/386f0d9b8a1a5c5358428958916dbe7e_rec5.pdf
+file_size: 101902
 file_type: application/pdf
 learning_resource_types:
 - Recitations

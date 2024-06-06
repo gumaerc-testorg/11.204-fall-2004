@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the information on photographic essay.
 file: /courses/11-204-planning-communications-and-digital-media-fall-2004/7112dbe82d3217736c0ddb3b35b63ead_lec3.pdf
+file_size: 813187
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

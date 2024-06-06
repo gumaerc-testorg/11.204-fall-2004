@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the slides for spatial data acquistion.
 file: /courses/11-204-planning-communications-and-digital-media-fall-2004/5804b56ff0f9e6734f776fa727efe942_lec8_lisasweeney.pdf
+file_size: 143802
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

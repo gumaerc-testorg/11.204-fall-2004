@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the notes on Planner's toolbox.
 file: /courses/11-204-planning-communications-and-digital-media-fall-2004/7e8885f416fba64dadffa3d8ddd80b88_lec1.pdf
+file_size: 19829
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
