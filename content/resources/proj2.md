@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the project information for describing a massachusetts
   town.
 file: /courses/11-204-planning-communications-and-digital-media-fall-2004/dc67ce3fc600e530d50e4c5076bd8495_proj2.pdf
+file_size: 68163
 file_type: application/pdf
 learning_resource_types:
 - Assignments

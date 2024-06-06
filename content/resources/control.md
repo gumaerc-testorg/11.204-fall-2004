@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/11-204-planning-communications-and-digital-media-fall-2004/f24ecb2147bdc51701a0d505dfa6a227_control.pdf
+file_size: 42141
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
