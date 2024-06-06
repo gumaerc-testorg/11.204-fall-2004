@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/11-204-planning-communications-and-digital-media-fall-2004/6f24049552bf173f2302039101c19a57_rec4database.dbf
+file_size: 530
 file_type: application/octet-stream
 learning_resource_types:
 - Recitations
