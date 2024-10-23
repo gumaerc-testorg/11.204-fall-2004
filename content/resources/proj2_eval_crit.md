@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the evaluation format for the project.
-file: /courses/11-204-planning-communications-and-digital-media-fall-2004/ab694bc7914a7f003e017eaa943977bf_proj2_eval_crit.pdf
+file: /ol-ocw-studio-app/courses/11-204-planning-communications-and-digital-media-fall-2004/ab694bc7914a7f003e017eaa943977bf_proj2_eval_crit.pdf
 file_size: 18218
 file_type: application/pdf
 learning_resource_types:
