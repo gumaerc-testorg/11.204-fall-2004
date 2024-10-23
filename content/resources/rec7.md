@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/11-204-planning-communications-and-digital-media-fall-2004/6ede03dc0f604ce50ee1da5a9c8808df_rec7.pdf
+file: /ol-ocw-studio-app/courses/11-204-planning-communications-and-digital-media-fall-2004/6ede03dc0f604ce50ee1da5a9c8808df_rec7.pdf
 file_size: 164973
 file_type: application/pdf
 learning_resource_types:
