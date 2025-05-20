@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information on how to use excel to understand
   population change.
-file: /ol-ocw-studio-app/courses/11-204-planning-communications-and-digital-media-fall-2004/aefae7415150ed479ec8721635742ab4_lab3.pdf
+file: /courses/11-204-planning-communications-and-digital-media-fall-2004/aefae7415150ed479ec8721635742ab4_lab3.pdf
 file_size: 61966
 file_type: application/pdf
 learning_resource_types:

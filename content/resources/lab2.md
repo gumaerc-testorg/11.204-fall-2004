@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains the information on the topic: Photography and the
   Construction of Visual Arguments.'
-file: /ol-ocw-studio-app/courses/11-204-planning-communications-and-digital-media-fall-2004/5b54a83bfb59a47d1b84aa291721b802_lab2.pdf
+file: /courses/11-204-planning-communications-and-digital-media-fall-2004/5b54a83bfb59a47d1b84aa291721b802_lab2.pdf
 file_size: 74859
 file_type: application/pdf
 learning_resource_types:

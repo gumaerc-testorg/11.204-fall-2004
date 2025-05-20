@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information on how to create a web page creation
   with dreamweaver.
-file: /ol-ocw-studio-app/courses/11-204-planning-communications-and-digital-media-fall-2004/2cb076a89ef94c77abfd3036c1535935_rec1.pdf
+file: /courses/11-204-planning-communications-and-digital-media-fall-2004/2cb076a89ef94c77abfd3036c1535935_rec1.pdf
 file_size: 160902
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the help section for using ArcGis to visualize population
   density.
-file: /ol-ocw-studio-app/courses/11-204-planning-communications-and-digital-media-fall-2004/2572be03f4c1c5741b4efcbd11bd7469_lab4_help.pdf
+file: /courses/11-204-planning-communications-and-digital-media-fall-2004/2572be03f4c1c5741b4efcbd11bd7469_lab4_help.pdf
 file_size: 2810050
 file_type: application/pdf
 learning_resource_types:
