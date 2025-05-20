@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information on local knowledge and PPGIS.
-file: /ol-ocw-studio-app/courses/11-204-planning-communications-and-digital-media-fall-2004/0d1924319284d60119716b9e3425e248_lec6.pdf
+file: /courses/11-204-planning-communications-and-digital-media-fall-2004/0d1924319284d60119716b9e3425e248_lec6.pdf
 file_size: 703755
 file_type: application/pdf
 learning_resource_types:

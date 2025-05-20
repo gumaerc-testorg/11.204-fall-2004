@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/11-204-planning-communications-and-digital-media-fall-2004/0efd3a9cfafb7973cd898e06d69579e3_adaptability.pdf
+file: /courses/11-204-planning-communications-and-digital-media-fall-2004/0efd3a9cfafb7973cd898e06d69579e3_adaptability.pdf
 file_size: 46752
 file_type: application/pdf
 learning_resource_types:
