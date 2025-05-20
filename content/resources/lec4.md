@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information on the topic: ''Change over Time''.'
-file: /ol-ocw-studio-app/courses/11-204-planning-communications-and-digital-media-fall-2004/6dfc70b76d9e4c21ccd6c18635a84e4c_lec4.pdf
+file: /courses/11-204-planning-communications-and-digital-media-fall-2004/6dfc70b76d9e4c21ccd6c18635a84e4c_lec4.pdf
 file_size: 1421919
 file_type: application/pdf
 learning_resource_types:

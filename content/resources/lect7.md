@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture 7: GIS-A Tool for analyzing community'
-file: /ol-ocw-studio-app/courses/11-204-planning-communications-and-digital-media-fall-2004/04a286878f0b324c5fdcc7569e2b6253_lect7.pdf
+file: /courses/11-204-planning-communications-and-digital-media-fall-2004/04a286878f0b324c5fdcc7569e2b6253_lect7.pdf
 file_size: 535517
 file_type: application/pdf
 learning_resource_types:

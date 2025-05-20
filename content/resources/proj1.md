@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information on web based planning portfolio project
   and gives the scenario, directions and grading criteria for the project.
-file: /ol-ocw-studio-app/courses/11-204-planning-communications-and-digital-media-fall-2004/5950a789e6a6a7e1034873ad96fc36c6_proj1.pdf
+file: /courses/11-204-planning-communications-and-digital-media-fall-2004/5950a789e6a6a7e1034873ad96fc36c6_proj1.pdf
 file_size: 51829
 file_type: application/pdf
 learning_resource_types:

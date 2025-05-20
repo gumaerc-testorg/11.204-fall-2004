@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/11-204-planning-communications-and-digital-media-fall-2004/8bcd532c46d11443f274422e32ebaa44_lect4.pdf
+file: /courses/11-204-planning-communications-and-digital-media-fall-2004/8bcd532c46d11443f274422e32ebaa44_lect4.pdf
 file_size: 86445
 file_type: application/pdf
 learning_resource_types:
