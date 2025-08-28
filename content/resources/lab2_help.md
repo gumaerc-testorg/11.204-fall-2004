@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the help information for photography and construction
   of visual arguments.
-file: /courses/11-204-planning-communications-and-digital-media-fall-2004/27913a21ebd53b6f3f81afccfd4bdfc7_lab2_help.pdf
+file: /ol-ocw-studio-app/courses/11-204-planning-communications-and-digital-media-fall-2004/27913a21ebd53b6f3f81afccfd4bdfc7_lab2_help.pdf
 file_size: 55848
 file_type: application/pdf
 learning_resource_types:

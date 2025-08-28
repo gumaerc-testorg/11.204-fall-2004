@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture 8: GIS - A Tool for representing community; Lecture 9: GIS -
   A Tool for mobilizing community'
-file: /courses/11-204-planning-communications-and-digital-media-fall-2004/c88a0e13040ca82d195de1cbe38830fe_lect8.pdf
+file: /ol-ocw-studio-app/courses/11-204-planning-communications-and-digital-media-fall-2004/c88a0e13040ca82d195de1cbe38830fe_lect8.pdf
 file_size: 183668
 file_type: application/pdf
 learning_resource_types:
