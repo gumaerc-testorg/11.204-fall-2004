@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the help file for using access to query multiple data
   sets.
-file: /courses/11-204-planning-communications-and-digital-media-fall-2004/ca24fa4485a2907f129801e4e88014ea_lab5_help.pdf
+file: /ol-ocw-studio-app/courses/11-204-planning-communications-and-digital-media-fall-2004/ca24fa4485a2907f129801e4e88014ea_lab5_help.pdf
 file_size: 1607615
 file_type: application/pdf
 learning_resource_types:

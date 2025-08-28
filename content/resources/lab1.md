@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information about portal page building.
-file: /courses/11-204-planning-communications-and-digital-media-fall-2004/7a3a74de215d7de8eaf51188aec76594_lab1.pdf
+file: /ol-ocw-studio-app/courses/11-204-planning-communications-and-digital-media-fall-2004/7a3a74de215d7de8eaf51188aec76594_lab1.pdf
 file_size: 59564
 file_type: application/pdf
 learning_resource_types:
