@@ -45,7 +45,7 @@ R1
 Macromedia® Dreamweaver® I
 {{< tdclose >}}
 {{< tdopen >}}
-Lynch, Patrick J., and Sarah Horton. [_Web Style Guide 2: Basic Design Principles for Creating Web Sites_](http://www.webstyleguide.com/index.html?/contents.html). New Haven, CT: Yale University Press, 2002. ISBN: 0300088981.
+Lynch, Patrick J., and Sarah Horton. {{% resource_link "a938dd70-cd8e-499a-a88d-20d66cfec520" "_Web Style Guide 2: Basic Design Principles for Creating Web Sites_" %}}. New Haven, CT: Yale University Press, 2002. ISBN: 0300088981.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -59,7 +59,7 @@ Planning a Web Site
 {{< tdopen >}}
 
 
-Lynch, Patrick J., and Sarah Horton. [_Web Style Guide 2: Basic Design Principles for Creating Web Sites_](http://www.webstyleguide.com/index.html?/contents.html). New Haven, CT: Yale University Press, 2002. ISBN: 0300088981.
+Lynch, Patrick J., and Sarah Horton. {{% resource_link "a938dd70-cd8e-499a-a88d-20d66cfec520" "_Web Style Guide 2: Basic Design Principles for Creating Web Sites_" %}}. New Haven, CT: Yale University Press, 2002. ISBN: 0300088981.
 
 Tufte, Edward R. "Color and Information." In _Envisioning Information_. Cheshire, CT: Graphics Press, 2001. ISBN: 0961392118.
 
